@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient( to top, #fbdecc, #fcfcfc);
+}
+#m01 {
+    background-image: url(https://as2.ftcdn.net/v2/jpg/03/77/53/57/1000_F_377535735_72wdE01yQbrNURYiDmps4FEDUJQz07Vx.jpg);
+    background-position: center;
+    height: 100%; width: 100%;
+    background-size: cover;
+}
+#m02 { text-align: center;
+
+}
+#headinglink {
+    text-align: justify;
+}
+.sublist {
+    display: flex;
+}
